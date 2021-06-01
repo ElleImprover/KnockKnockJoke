@@ -1,0 +1,16 @@
+C:\Users\ElizabethDavis\Documents\Improving\Practice\KnockKnockJoke\KnockKnockJoke\bin\Debug\net5.0\KnockKnockJoke.exe
+C:\Users\ElizabethDavis\Documents\Improving\Practice\KnockKnockJoke\KnockKnockJoke\bin\Debug\net5.0\KnockKnockJoke.deps.json
+C:\Users\ElizabethDavis\Documents\Improving\Practice\KnockKnockJoke\KnockKnockJoke\bin\Debug\net5.0\KnockKnockJoke.runtimeconfig.json
+C:\Users\ElizabethDavis\Documents\Improving\Practice\KnockKnockJoke\KnockKnockJoke\bin\Debug\net5.0\KnockKnockJoke.runtimeconfig.dev.json
+C:\Users\ElizabethDavis\Documents\Improving\Practice\KnockKnockJoke\KnockKnockJoke\bin\Debug\net5.0\KnockKnockJoke.dll
+C:\Users\ElizabethDavis\Documents\Improving\Practice\KnockKnockJoke\KnockKnockJoke\bin\Debug\net5.0\ref\KnockKnockJoke.dll
+C:\Users\ElizabethDavis\Documents\Improving\Practice\KnockKnockJoke\KnockKnockJoke\bin\Debug\net5.0\KnockKnockJoke.pdb
+C:\Users\ElizabethDavis\Documents\Improving\Practice\KnockKnockJoke\KnockKnockJoke\obj\Debug\net5.0\KnockKnockJoke.csprojAssemblyReference.cache
+C:\Users\ElizabethDavis\Documents\Improving\Practice\KnockKnockJoke\KnockKnockJoke\obj\Debug\net5.0\KnockKnockJoke.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ElizabethDavis\Documents\Improving\Practice\KnockKnockJoke\KnockKnockJoke\obj\Debug\net5.0\KnockKnockJoke.AssemblyInfoInputs.cache
+C:\Users\ElizabethDavis\Documents\Improving\Practice\KnockKnockJoke\KnockKnockJoke\obj\Debug\net5.0\KnockKnockJoke.AssemblyInfo.cs
+C:\Users\ElizabethDavis\Documents\Improving\Practice\KnockKnockJoke\KnockKnockJoke\obj\Debug\net5.0\KnockKnockJoke.csproj.CoreCompileInputs.cache
+C:\Users\ElizabethDavis\Documents\Improving\Practice\KnockKnockJoke\KnockKnockJoke\obj\Debug\net5.0\KnockKnockJoke.dll
+C:\Users\ElizabethDavis\Documents\Improving\Practice\KnockKnockJoke\KnockKnockJoke\obj\Debug\net5.0\ref\KnockKnockJoke.dll
+C:\Users\ElizabethDavis\Documents\Improving\Practice\KnockKnockJoke\KnockKnockJoke\obj\Debug\net5.0\KnockKnockJoke.pdb
+C:\Users\ElizabethDavis\Documents\Improving\Practice\KnockKnockJoke\KnockKnockJoke\obj\Debug\net5.0\KnockKnockJoke.genruntimeconfig.cache
